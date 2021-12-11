@@ -1,0 +1,53 @@
+<appliances>
+    <teapot>
+        <price>50</price>
+        <power>900</power>
+        <weight>2</weight>
+        <bulk>1</bulk>
+        <color>WHITE</color>
+    </teapot>
+    <teapot>
+        <price>150</price>
+        <power>3000</power>
+        <weight>6</weight>
+        <bulk>2</bulk>
+        <color>RED</color>
+    </teapot>
+
+    <laptop>
+        <price>1000</price>
+        <battery_capacity>3000</battery_capacity>
+        <os>DOS</os>
+        <memory_rom>4096</memory_rom>
+        <cpu>INTEL_CORE_5_10310U</cpu>
+        <display_inches>13</display_inches>
+    </laptop>
+    <laptop>
+        <price>5500</price>
+        <battery_capacity>5000</battery_capacity>
+        <os>WINDOWS</os>
+        <memory_rom>16384</memory_rom>
+        <cpu>INTEL_CORE_9_11980HK</cpu>
+        <display_inches>17.3</display_inches>
+    </laptop>
+    <laptop>
+        <price>2400</price>
+        <battery_capacity>4000</battery_capacity>
+        <os>WINDOWS</os>
+        <memory_rom>8192</memory_rom>
+        <cpu>INTEL_CORE_5_8300H</cpu>
+        <display_inches>15.6</display_inches>
+    </laptop>
+
+
+    <fridge>
+        <price>10000</price>
+        <color>BLACK</color>
+        <company>BOSCH</company>
+    </fridge>
+    <fridge>
+        <price>7500</price>
+        <color>YELLOW</color>
+        <company>BOSCH</company>
+    </fridge>
+</appliances>
