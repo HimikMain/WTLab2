@@ -1,0 +1,14 @@
+unnamed package
+by.bsuir.Bakunovich.Common
+by.bsuir.Bakunovich.DAO
+by.bsuir.Bakunovich.DAO.Factory
+by.bsuir.Bakunovich.DAO.Factory.impl
+by.bsuir.Bakunovich.DAO.impl
+by.bsuir.Bakunovich.Entity
+by.bsuir.Bakunovich.Entity.Enums
+by.bsuir.Bakunovich.Entity.Feature
+by.bsuir.Bakunovich.Exception
+by.bsuir.Bakunovich.Service
+by.bsuir.Bakunovich.Service.impl
+by.bsuir.Bakunovich.Service.Validator
+by.bsuir.Bakunovich.Service.Validator.impl
